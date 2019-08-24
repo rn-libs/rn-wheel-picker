@@ -1,4 +1,4 @@
-# rn-wheel-picker
+# rn-wheel-picker-js
 
 ## Example usage (data picker)
 
@@ -11,10 +11,10 @@
 ```js
 import React from "react";
 import { Text, View, StyleSheet, Modal } from "react-native";
-import { RnWheelPicker } from "rn-wheel-picker";
+import { RnWheelPickerJSJS } from "rn-wheel-picker";
 
 const Picker = ({ data, selected, label, changeState }) => (
-  <RnWheelPicker
+  <RnWheelPickerJSJS
     data={data}
     selectedIndex={selected}
     onValueChange={(changeData, selectedIndex) => {

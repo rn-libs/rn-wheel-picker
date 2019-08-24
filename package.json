@@ -1,12 +1,26 @@
 {
-  "name": "rn-wheel-picker",
-  "version": "1.0.1",
+  "name": "rn-wheel-picker-js",
+  "version": "2.0.0",
   "description": "",
   "main": "lib/index.js",
   "directories": {
     "lib": "lib"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/userbq201/rn-wheel-picker.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-component",
+    "react-native-wheel-picker",
+    "android",
+    "ios"
+  ],
+  "author": "Shelomanov Dmitry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/userbq201/rn-wheel-picker/issues"
+  },
+  "homepage": "https://github.com/userbq201/rn-wheel-picker#readme"
 }
